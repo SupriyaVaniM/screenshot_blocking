@@ -1,16 +1,7 @@
 # block_screenshot
 
-A new Flutter project.
+This is an example of preventing screenshot in single view among all the views in a app, but without using any plugin.
+Used native code and methodchanneling for both IOS and android.
+Please feel free to do any changes 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
